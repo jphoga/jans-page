@@ -1,0 +1,4 @@
+# Docker setup from 
+https://www.geeksforgeeks.org/next-js-docker-images/
+
+
